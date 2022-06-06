@@ -12,3 +12,4 @@ Nothing jet but it is temporarily
 Englsih: Intermediate/Upper-intermediate
 Russian: Native
 German:Intermediate
+Czech: Beginner
